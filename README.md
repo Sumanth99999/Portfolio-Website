@@ -10,3 +10,6 @@ The application was developed using the following technologies:
 
 HTML5 for structuring the webpage.
 CSS3 for basic styling.
+
+
+![Alt text](<Screenshot (42).png>)
